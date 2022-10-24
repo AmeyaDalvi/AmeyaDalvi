@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 # Hi, I'm Ameya 👋
 
-**`Developer/Guitarist/Chess Player`**
+**`Software Developer/Guitarist/Chess Player`**
 
 Hello! I am a Software Developer with a background in Web Development and Machine Learning. My inclination towards using modern technologies to solve challenging real world problems has led me to pursue my master's in Computer Science at Indiana University Bloomington.
 
-I was able to develop new front-end, update existing ones, and work on back-end technologies that used Java and C# during my time as a Software Engineer at Xoriant and  Summer Intern at Rocket. Additionally, I gained knowledge in writing Infrastructure as a Code, deploying cloud-formation stacks to AWS, and building deployment pipelines. Going further, I would love to learn more about Cloud Technologies and industry level System Designing.
+I developed new front-end, updated existing ones, and work on back-end technologies that used Java and C# during my time as a Software Engineer at Xoriant and  Summer Intern at Rocket. Additionally, I gained knowledge in writing Infrastructure as a Code, deploying cloud-formation stacks to AWS, and building deployment pipelines. Going further, I would love to learn more about Cloud Technologies and industry level System Designing.
 
 Outside of my professional life, I’m and avid chess enjoyer and a guitar player!
 
