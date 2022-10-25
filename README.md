@@ -21,7 +21,7 @@ Hello! I am a Software Developer with a background in Web Development and Machin
 
 I developed new front-end, updated existing ones, and work on back-end technologies that used Java and C# during my time as a Software Engineer at Xoriant and  Summer Intern at Rocket. Additionally, I gained knowledge in writing Infrastructure as a Code, deploying cloud-formation stacks to AWS, and building deployment pipelines. Going further, I would love to learn more about Cloud Technologies and industry level System Designing.
 
-Outside of my professional life, I’m and avid chess enjoyer and a guitar player!
+Outside of my professional life, I’m an avid chess enjoyer and a guitar player!
 
 <p align="left">
     <a href="https://www.linkedin.com/in/ameyadalvi99/">
