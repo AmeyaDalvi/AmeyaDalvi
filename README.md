@@ -28,7 +28,7 @@ Outside of my professional life, I’m an avid chess enjoyer and a guitar player
         <img alt="LinkedIn" title="LinkedIn profile" src="https://img.shields.io/badge/ameyadalvi99-blue?style=for-the-badge&logo=linkedin"/></a> 
     <a href="mailto:ameyadalvi1999@gmail.com">
         <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/ameyadalvi1999%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=red"/></a>
-    <a href="ameyadalvi.com">
+    <a href="https://www.ameyadalvi.com/">
         <img alt="followers" title="Check my portfolio" src="https://img.shields.io/badge/ameyadalvi.com-skyblue?style=for-the-badge&logo=react&logoColor=000&labelColor=skyblue"/></a>
 </p>
 
